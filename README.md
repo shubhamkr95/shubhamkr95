@@ -5,7 +5,7 @@
 
 ### About
 
--  **Learning :** Blockchain Development | Open-Source :zap:	
+-  **Learning :** Blockchain Development :zap:	
 -  **Languages :** Javascript, Solidity 
 -  **Fact :** Do planning before the execution :radioactive:
 -  **Organization :** [Solulab](https://github.com/SoluLab)
