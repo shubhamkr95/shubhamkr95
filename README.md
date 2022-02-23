@@ -8,7 +8,7 @@
 -  **Learning :** Blockchain Development | Open-Source :zap:	
 -  **Languages :** Javascript, Solidity 
 -  **Fact :** Do planning before the execution :radioactive:
--  **Organization :** Solulab
+-  **Organization :** [Solulab](https://github.com/SoluLab)
 
 ### Languages and Tools ⚙
 <code><img width="30px" height="30" src="https://image.flaticon.com/icons/png/512/174/174854.png" title="HTML5"></code>
