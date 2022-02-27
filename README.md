@@ -14,7 +14,7 @@
 
 
 ### Languages and Tools ⚙
-
+<code>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
@@ -22,6 +22,7 @@
 <img src="https://img.icons8.com/ios/48/000000/solidity.png"/>
 <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
 <img src="https://img.icons8.com/office/48/000000/react.png"/>
+</code>
 
 
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamkr95&show_icons=true&theme=radical)](https://github.com/shubhamkr95/github-readme-stats)
