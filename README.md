@@ -20,6 +20,7 @@
 <img src="https://img.icons8.com/ios/48/000000/solidity.png"/>
 <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
 <img src="https://img.icons8.com/office/48/000000/react.png"/>
+<img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
 </p>
 
 ***
