@@ -2,7 +2,7 @@
 
  [![Twitter Badge](https://img.shields.io/badge/-Shubham_Sahoo-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Shubham15681423)](https://twitter.com/Shubham15681423)        [![Gmail Badge](https://img.shields.io/badge/-sahooshubham124@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahooshubham124@gmail.com)](mailto:sahooshubham124@gmail.com)
 
-<br />
+
 
 ### About
 
@@ -10,7 +10,7 @@
 -  **Languages :** Javascript, Solidity 
 -  **Organization :** [Solulab](https://github.com/SoluLab)
 
-<br />
+
 
 
 ### Languages and Tools ⚙
@@ -23,6 +23,5 @@
 <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
 <img src="https://img.icons8.com/office/48/000000/react.png"/>
 
-<br />
 
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamkr95&show_icons=true&theme=radical)](https://github.com/shubhamkr95/github-readme-stats)
