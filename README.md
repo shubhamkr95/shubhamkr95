@@ -24,5 +24,6 @@
 <img src="https://img.icons8.com/office/48/000000/react.png"/>
 </code>
 
+<br />
 
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamkr95&show_icons=true&theme=radical)](https://github.com/shubhamkr95/github-readme-stats)
