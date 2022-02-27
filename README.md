@@ -7,7 +7,6 @@
 
 -  **Learning :** Blockchain Development :zap:	
 -  **Languages :** Javascript, Solidity 
--  **Fact :** Do planning before the execution :radioactive:
 -  **Organization :** [Solulab](https://github.com/SoluLab)
 
 ### Languages and Tools ⚙
@@ -16,4 +15,4 @@
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="javascript"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="nodejs"></code>
 <code><img width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
-
+<code><img width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
