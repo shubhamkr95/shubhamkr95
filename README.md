@@ -1,7 +1,8 @@
-## Hi, I'm Shubham ![wave](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png)
+## Hi, I'm Shubham :wave:
 
  [![Twitter Badge](https://img.shields.io/badge/-Shubham_Sahoo-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Shubham15681423)](https://twitter.com/Shubham15681423)        [![Gmail Badge](https://img.shields.io/badge/-sahooshubham124@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahooshubham124@gmail.com)](mailto:sahooshubham124@gmail.com)
 
+<br />
 
 ### About
 
@@ -9,10 +10,19 @@
 -  **Languages :** Javascript, Solidity 
 -  **Organization :** [Solulab](https://github.com/SoluLab)
 
-### Languages and Tools ⚙
-[<img width="30px" height="30" src="https://image.flaticon.com/icons/png/512/174/174854.png" title="HTML5">]
-<code><img width="30px" height="30" src="https://image.flaticon.com/icons/png/512/732/732190.png" title="CSS3"></code>
-<code><img width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="javascript"></code>
-<code><img width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="nodejs"></code>
-<code><img width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
+<br />
 
+
+### Languages and Tools ⚙
+
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/ios/48/000000/solidity.png"/>
+<img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
+<img src="https://img.icons8.com/office/48/000000/react.png"/>
+
+<br />
+
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamkr95&show_icons=true&theme=radical)](https://github.com/shubhamkr95/github-readme-stats)
