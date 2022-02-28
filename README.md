@@ -17,8 +17,8 @@
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img src="https://img.icons8.com/ios/48/000000/solidity.png"/>
-<img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
+<img src="https://img.icons8.com/ios/48/ffffff/solidity.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/office/48/000000/react.png"/>
 <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
 </p>
