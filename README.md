@@ -21,6 +21,7 @@
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/office/48/000000/react.png"/>
 <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/undefined/external-rust-is-a-multi-paradigm-system-programming-language-logo-filled-tal-revivo.png"/>
 </p>
 
 ***
