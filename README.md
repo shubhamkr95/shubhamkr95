@@ -1,5 +1,3 @@
-## Hi, I'm Shubham :wave:
-
  [![Gmail Badge](https://img.shields.io/badge/-sahooshubham124@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahooshubham124@gmail.com)](mailto:sahooshubham124@gmail.com)
 
 ***
@@ -26,4 +24,4 @@
 
 ***
 
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamkr95&show_icons=true&theme=radical)](https://github.com/shubhamkr95/github-readme-stats)
+
