@@ -22,6 +22,5 @@
 <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/undefined/external-rust-is-a-multi-paradigm-system-programming-language-logo-filled-tal-revivo.png"/>
 </p>
 
-***
 
 
