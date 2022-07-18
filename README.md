@@ -22,5 +22,5 @@
 <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/undefined/external-rust-is-a-multi-paradigm-system-programming-language-logo-filled-tal-revivo.png"/>
 </p>
 
-
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamkr95&show_icons=true&theme=radical)](https://github.com/shubhamkr95/github-readme-stats)
 
