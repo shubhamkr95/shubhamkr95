@@ -1,14 +1,12 @@
- [![Gmail Badge](https://img.shields.io/badge/-sahooshubham124@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahooshubham124@gmail.com)](mailto:sahooshubham124@gmail.com)
- 
+
  ![](https://komarev.com/ghpvc/?username=shubhamkr95&color=orange)
 
-***
 
 ### About
 
--  **Learning :** Blockchain Development :zap:	
+-  **Learning :** I am currently learning Rust & Data structure & algorithms :zap:	
 -  **Languages :** Javascript, Solidity 
--  **Organization :** [Solulab](https://github.com/SoluLab)
+-  **How to reach me :**  [![Gmail Badge](https://img.shields.io/badge/-sahooshubham124@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahooshubham124@gmail.com)](mailto:sahooshubham124@gmail.com)
 
 ***
 ### Languages and Tools ⚙
