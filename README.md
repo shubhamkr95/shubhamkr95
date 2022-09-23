@@ -4,7 +4,7 @@
 
 ### About
 
--  **Learning :** I am currently learning Rust, Python & Data structure & algorithms :zap:	
+-  **Learning :** I am currently learning Rust, Data structure & algorithms :zap:	
 -  **Languages :** Javascript, Solidity 
 -  **How to reach me :**  [![Gmail Badge](https://img.shields.io/badge/-sahooshubham124@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahooshubham124@gmail.com)](mailto:sahooshubham124@gmail.com)
 
