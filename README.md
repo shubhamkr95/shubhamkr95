@@ -1,5 +1,3 @@
- ![](https://komarev.com/ghpvc/?username=shubhamkr95&color=orange)
-
 ### About Me
 
 -  **Profession :** Currently working as a Blockchain developer 👨‍💼	 
