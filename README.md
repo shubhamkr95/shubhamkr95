@@ -1,5 +1,3 @@
-# Hello there
-
  ![](https://komarev.com/ghpvc/?username=shubhamkr95&color=orange)
 
 ### About Me
